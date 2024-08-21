@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1007140411788-hdub4ah2nng82ibq9g6frf4gdn7e5ad6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1007140411788-hdub4ah2nng82ibq9g6frf4gdn7e5ad6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1007140411788-04fd4id9fhosl4ao4nsscnbn93iuq05k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgvAH9k5mmjPZ2Fq6PAtlyYV9ONqYCTbM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1007140411788</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.avnt.sammy</string>
+	<key>PROJECT_ID</key>
+	<string>sammy-db9c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sammy-db9c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1007140411788:ios:8be5403a21f739e5455ea9</string>
+	<key>DATABASE_URL</key>
+	<string>https://sammy-db9c8-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
